@@ -1,0 +1,15 @@
+A:\.NET\C#-playground\C#-playground\bin\Debug\net6.0\pagination.exe
+A:\.NET\C#-playground\C#-playground\bin\Debug\net6.0\pagination.deps.json
+A:\.NET\C#-playground\C#-playground\bin\Debug\net6.0\pagination.runtimeconfig.json
+A:\.NET\C#-playground\C#-playground\bin\Debug\net6.0\pagination.dll
+A:\.NET\C#-playground\C#-playground\bin\Debug\net6.0\pagination.pdb
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.csproj.AssemblyReference.cache
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.GeneratedMSBuildEditorConfig.editorconfig
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.AssemblyInfoInputs.cache
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.AssemblyInfo.cs
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.csproj.CoreCompileInputs.cache
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.dll
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\refint\pagination.dll
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.pdb
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\pagination.genruntimeconfig.cache
+A:\.NET\C#-playground\C#-playground\obj\Debug\net6.0\ref\pagination.dll
